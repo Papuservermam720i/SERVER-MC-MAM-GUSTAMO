@@ -11967,3 +11967,27 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [20May2025 01:51:21.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> duerme si o si
 [20May2025 01:51:30.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nos cojen
 [20May2025 01:51:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ya van a ser las 11 no jodas
+[20May2025 01:56:21.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 01:56:21.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 01:56:39.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[20May2025 01:59:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Cave Spider
+[20May2025 01:59:45.260] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cattemci was created at position [x:-2493, y:76, z:1016, dim:minecraft:overworld]
+[20May2025 01:59:45.278] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[20May2025 01:59:47.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Monsters Level 10]
+[20May2025 01:59:56.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[20May2025 02:00:36.711] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[20May2025 02:00:43.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[20May2025 02:01:21.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 02:01:21.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 02:01:28.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> tienes madera del arbol blanco?
+[20May2025 02:01:31.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nop
+[20May2025 02:01:40.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> q puta no tenés nada
+[20May2025 02:01:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> exacto
+[20May2025 02:01:44.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> povre
+[20May2025 02:02:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:46.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:48.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:53.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 02:02:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz

@@ -7093,6 +7093,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-20 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2025-05-20 01:59:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-20 01:34:52 +0000"

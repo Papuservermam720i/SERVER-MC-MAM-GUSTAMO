@@ -8961,6 +8961,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-20 01:57:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
@@ -8991,6 +8997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-20 01:57:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
@@ -9015,6 +9027,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_orange_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-20 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-05-20 01:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
@@ -9024,6 +9048,18 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-20 01:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-20 01:57:54 +0000"
     },
     "done": true
   },
@@ -9072,6 +9108,12 @@
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-20 01:57:54 +0000"
     },
     "done": true
   },
