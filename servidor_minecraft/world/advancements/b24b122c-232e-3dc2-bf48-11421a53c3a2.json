@@ -8949,6 +8949,12 @@
     },
     "done": true
   },
+  "knize1007:day40": {
+    "criteria": {
+      "play25days": "2025-05-20 01:41:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-05-20 01:05:58 +0000"
@@ -8964,6 +8970,12 @@
   "cfm:recipes/decorations/dark_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-20 01:47:42 +0000"
     },
     "done": true
   },
@@ -9018,6 +9030,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-20 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-20 01:47:42 +0000"
     },
     "done": true
   },

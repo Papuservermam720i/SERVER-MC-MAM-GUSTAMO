@@ -2410,6 +2410,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-20 01:45:41 +0000",
       "porkchop": "2025-05-20 01:33:25 +0000",
       "cooked_chicken": "2025-05-20 01:33:48 +0000",
       "mushroom_stew": "2025-05-18 01:16:58 +0000",
@@ -7173,6 +7174,12 @@
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 01:34:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-20 01:41:29 +0000"
     },
     "done": true
   },
