@@ -9743,12 +9743,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-05-22 18:58:36 +0000"
@@ -9766,12 +9760,6 @@
       "all_effects": "2025-05-22 18:26:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/green_sofa": {
     "criteria": {
@@ -9791,12 +9779,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-22 18:52:45 +0000"
@@ -9814,12 +9796,6 @@
       "has_green_wool": "2025-05-22 18:48:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
@@ -9839,18 +9815,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2025-05-22 18:58:36 +0000"
@@ -9863,47 +9827,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2025-05-22 18:48:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-22 19:09:47 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/decorations/orange_sofa": {
     "criteria": {
