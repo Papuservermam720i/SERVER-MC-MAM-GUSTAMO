@@ -3120,10 +3120,12 @@
       "minecraft:ravager": "2025-05-17 21:23:18 +0000",
       "minecraft:vindicator": "2025-05-16 19:15:34 +0000",
       "minecraft:spider": "2025-05-15 02:01:21 +0000",
+      "minecraft:piglin_brute": "2025-05-22 21:35:09 +0000",
       "minecraft:witch": "2025-05-17 21:22:59 +0000",
       "minecraft:wither_skeleton": "2025-05-16 21:27:32 +0000",
       "minecraft:husk": "2025-05-16 22:47:54 +0000",
       "minecraft:cave_spider": "2025-05-16 22:20:02 +0000",
+      "minecraft:piglin": "2025-05-22 21:36:15 +0000",
       "minecraft:enderman": "2025-05-17 21:43:27 +0000",
       "minecraft:stray": "2025-05-18 19:12:16 +0000",
       "minecraft:zombie": "2025-05-15 01:32:40 +0000",
@@ -8513,15 +8515,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-05-22 21:04:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_chestplate": {
     "criteria": {
       "has_item": "2025-05-22 21:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-05-22 21:35:00 +0000"
     },
     "done": true
   },
@@ -8567,9 +8587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-05-22 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
     },
     "done": true
   },
@@ -8597,6 +8629,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-22 21:35:00 +0000"
+    },
+    "done": true
+  },
   "hangglider:recipes/tools/hang_glider": {
     "criteria": {
       "has_the_recipe": "2025-05-22 20:42:02 +0000"
@@ -8609,15 +8647,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-05-22 21:34:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-05-22 20:49:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-22 20:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 21:22:22 +0000"
     },
     "done": true
   },
