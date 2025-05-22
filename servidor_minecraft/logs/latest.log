@@ -1196,3 +1196,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 01:36:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ah
 [22May2025 01:36:56.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> XD
 [22May2025 01:36:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> yo sigo aca
+[22May2025 01:49:58.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:50130] logged in with entity id 30492 at (-1793.9911940178931, 148.0, 797.3134874746215)
+[22May2025 01:49:58.047] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[22May2025 01:49:58.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[22May2025 01:49:58.112] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[22May2025 01:49:59.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[22May2025 01:49:59.876] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 01:50:10.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 01:50:11.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 01:50:11.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[22May2025 01:50:30.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[22May2025 01:50:30.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[22May2025 01:50:30.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 01:50:33.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 01:50:34.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 01:50:34.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[22May2025 01:55:04.092] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[22May2025 01:55:04.094] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 70], discarding
+[22May2025 01:56:35.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1917, y=147, z=846} BlockPos{x=-1917, y=145, z=843}
+[22May2025 01:56:35.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1917, y=147, z=846} BlockPos{x=-1917, y=145, z=843}
+[22May2025 01:56:35.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1917, y=146, z=845} BlockPos{x=-1917, y=145, z=843}
+[22May2025 01:57:39.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was killed by Witch using magic
+[22May2025 01:57:39.734] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 01:58:02.292] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[22May2025 01:58:02.294] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 70], discarding
+[22May2025 01:58:08.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1883, y=144, z=801} BlockPos{x=-1882, y=143, z=800}
+[22May2025 01:58:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was killed by Witch using magic
+[22May2025 01:58:30.940] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 01:58:46.214] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[22May2025 01:58:46.216] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 70], discarding
+[22May2025 01:58:54.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has reached the goal [Fortuitous Militia]
+[22May2025 01:59:05.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was killed by Witch using magic
+[22May2025 01:59:05.630] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 01:59:33.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[22May2025 01:59:33.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[22May2025 01:59:33.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 01:59:44.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[22May2025 01:59:44.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[22May2025 01:59:44.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[22May2025 02:02:20.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [A Seedy Place]
