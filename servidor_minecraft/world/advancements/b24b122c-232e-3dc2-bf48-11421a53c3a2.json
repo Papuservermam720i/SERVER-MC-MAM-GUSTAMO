@@ -9995,5 +9995,35 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-05-22 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-05-22 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
+    "criteria": {
+      "has_white_puffball_cap": "2025-05-22 20:26:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-22 20:23:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2025-05-22 20:26:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

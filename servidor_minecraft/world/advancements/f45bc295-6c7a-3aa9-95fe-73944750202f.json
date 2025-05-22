@@ -8922,5 +8922,53 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-05-22 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-05-22 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-05-22 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 20:18:17 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-05-22 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-05-22 20:21:04 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-05-22 20:22:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-05-22 20:20:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
