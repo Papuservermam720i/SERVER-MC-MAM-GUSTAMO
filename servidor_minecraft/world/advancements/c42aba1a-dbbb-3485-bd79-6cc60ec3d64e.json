@@ -8006,87 +8006,117 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_planks": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_planks": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "mcwfurnitures:recipes/spruce": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_wood": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_planks": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_planks": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-19 01:45:38 +0000"
+      "has_log": "2025-05-19 01:09:28 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:09:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:09:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-19 01:09:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-19 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-19 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-19 01:10:04 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8099,12 +8129,6 @@
   "biomeswevegone:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
     },
     "done": true
   },
@@ -8126,12 +8150,6 @@
     },
     "done": true
   },
-  "brewery:recipes/fried_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
@@ -8144,21 +8162,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8168,33 +8174,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-19 01:16:43 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-19 01:17:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-05-19 01:10:04 +0000"
     },
     "done": true
   },
@@ -8210,39 +8192,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-05-19 01:14:10 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-19 01:16:43 +0000"
     },
     "done": true
   },
@@ -8252,51 +8204,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-05-19 01:10:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-05-19 01:21:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_table": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-05-19 01:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-19 01:16:43 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8309,12 +8219,6 @@
   "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8339,12 +8243,6 @@
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8390,51 +8288,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_hippocampus": {
-    "criteria": {
-      "tame_rat": "2025-05-19 01:17:43 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_desk": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-05-19 01:10:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-05-19 01:09:28 +0000"
     },
     "done": true
   },
@@ -8447,6 +8309,72 @@
   "biomeswevegone:recipes/transportation/holly_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 01:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-19 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 01:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-19 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-05-19 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-19 01:21:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-19 01:42:22 +0000"
     },
     "done": true
   },

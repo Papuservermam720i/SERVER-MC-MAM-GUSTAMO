@@ -9443,21 +9443,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-22 17:23:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_smooth_sandstone_slab_from_reinforced_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_reinforced_smooth_sandstone": "2025-05-22 17:16:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-22 17:23:02 +0000"
     },
     "done": true
   },
@@ -9473,33 +9461,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_sandstone_stairs_from_reinforced_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_reinforced_smooth_sandstone": "2025-05-22 17:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-22 17:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-22 17:23:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-22 17:23:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-05-22 17:23:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-05-22 17:23:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-05-22 17:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-05-22 17:24:10 +0000"
     },
     "done": true
   },
@@ -9515,12 +9503,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-05-22 17:23:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-22 17:23:02 +0000"
@@ -9533,21 +9515,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_smooth_sandstone_stairs_from_reinforced_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_reinforced_smooth_sandstone": "2025-05-22 17:16:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-22 17:23:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_dye_tag": "2025-05-22 17:28:26 +0000"
+      "has_granite": "2025-05-22 17:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-22 17:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-05-22 17:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-22 17:23:05 +0000"
     },
     "done": true
   },
@@ -9557,21 +9551,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-05-22 17:28:26 +0000"
-    },
-    "done": true
-  },
   "hangglider:recipes/tools/glider_framework": {
     "criteria": {
       "has_iron_ingot": "2025-05-22 17:24:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_granite": "2025-05-22 17:23:02 +0000"
+      "has_blue_orchid": "2025-05-22 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-05-22 17:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-22 17:28:26 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-05-22 17:36:49 +0000"
     },
     "done": true
   },
