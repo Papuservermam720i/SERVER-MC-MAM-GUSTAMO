@@ -7093,15 +7093,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_flint": "2025-05-20 01:55:35 +0000"
-    },
-    "done": true
-  },
-  "knize1007:day10": {
-    "criteria": {
-      "play25days": "2025-05-20 01:59:47 +0000"
+      "has_silver_nugget": "2025-05-20 01:24:11 +0000"
     },
     "done": true
   },
@@ -7189,12 +7183,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-05-20 01:41:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 01:34:52 +0000"
@@ -7210,12 +7198,6 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 01:34:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-05-20 01:24:11 +0000"
     },
     "done": true
   },
@@ -7246,6 +7228,36 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-05-20 01:34:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-20 01:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-20 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2025-05-20 01:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-20 02:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-20 02:09:44 +0000"
     },
     "done": true
   },
