@@ -7333,6 +7333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-22 01:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-22 01:30:28 +0000"
@@ -7390,6 +7396,12 @@
   "cfm:recipes/decorations/birch_crate": {
     "criteria": {
       "has_log": "2025-05-22 01:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-22 01:35:52 +0000"
     },
     "done": true
   },
