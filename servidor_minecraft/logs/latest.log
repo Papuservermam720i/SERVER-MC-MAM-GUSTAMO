@@ -1310,3 +1310,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 19:03:26.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
 [22May2025 19:03:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> YA NO ME DEJA AGARRAR
 [22May2025 19:03:49.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> Q PUTA XD
+[22May2025 19:04:10.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[22May2025 19:04:15.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> omm
+[22May2025 19:04:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> me embargan la casa we
+[22May2025 19:04:57.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> dejen que sea de noche alv necesito creepers
+[22May2025 19:05:17.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que necesidad ta tienen de romper mi casa siempre
+[22May2025 19:05:22.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> como se hacian los marcos xdd
+[22May2025 19:05:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hay una puta puerta
+[22May2025 19:05:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> io no jui
+[22May2025 19:05:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nde quien se llevo mi cuero
+[22May2025 19:06:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo te dí cuero
+[22May2025 19:06:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no te lo voy a robar
+[22May2025 19:06:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> eliasss
+[22May2025 19:06:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> yo no fui
+[22May2025 19:06:16.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> donde esta mi cueroo
+[22May2025 19:06:25.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> trankilos
+[22May2025 19:06:57.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> qn m presta 2 de hilo wei
+[22May2025 19:07:33.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/27445, l='ServerLevel[world]', x=94.82, y=151.00, z=102.81] died, message: 'Golem Healer was slain by Mtaep'
+[22May2025 19:07:33.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/27445, l='ServerLevel[world]', x=94.82, y=151.00, z=102.81] died: Golem Healer was slain by Mtaep
+[22May2025 19:08:12.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22May2025 19:08:19.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has reached the goal [Flowers of the Savanna]
+[22May2025 19:08:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Monsters Level 30]
+[22May2025 19:09:34.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=148, z=775} BlockPos{x=-1784, y=148, z=773}
+[22May2025 19:09:34.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=148, z=775} BlockPos{x=-1784, y=148, z=773}
+[22May2025 19:09:34.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=148, z=775} BlockPos{x=-1784, y=148, z=773}
+[22May2025 19:09:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> nde escucho cosas
+[22May2025 19:09:47.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[22May2025 19:09:49.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> es mi pene
+[22May2025 19:10:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> cuidao si rompen cultivos
+[22May2025 19:10:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> les sale un wey
+[22May2025 19:10:09.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> y les hace
+[22May2025 19:10:11.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[22May2025 19:10:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> eso pio era el ruido
+[22May2025 19:10:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> SI
+[22May2025 19:10:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> casi me mato
+[22May2025 19:10:25.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> pega duro
+[22May2025 19:10:32.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> me void a explorar
+[22May2025 19:10:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Book of Monsters]
+[22May2025 19:11:02.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22May2025 19:11:26.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22May2025 19:11:28.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 2.926705366040551,-1.6332886000204496,-17.360672628668453
+[22May2025 19:11:34.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 7.733710481005119,-0.7340081246330499,-16.448879326795236
+[22May2025 19:11:36.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved wrongly!
+[22May2025 19:11:55.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 0.9297398553296716,1.2972449128457413,-17.94035377283319
+[22May2025 19:11:57.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15258ms or 305 ticks behind
+[22May2025 19:12:15.010] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1808, y=4, z=-1130} but found not block entity block Block{minecraft:water}[level=1] at location
+[22May2025 19:12:15.010] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1808, y=4, z=-1130}
+[22May2025 19:12:19.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> dehaa
+[22May2025 19:12:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> Q PUTAAA
+[22May2025 19:12:23.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11112ms or 222 ticks behind
+[22May2025 19:12:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> DEKA DE DORMIR TAN TEMPRANO
+[22May2025 19:12:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ELIAS SACA ESO
+[22May2025 19:12:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> pone de 2 mba'e
+[22May2025 19:12:39.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> nde legal duermen muy temprano
+[22May2025 19:12:39.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> al que madruga dios le ayuda
+[22May2025 19:12:45.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7134ms or 142 ticks behind
+[22May2025 19:12:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> voy a quitar como sigan asi
+[22May2025 19:13:09.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9713ms or 194 ticks behind
+[22May2025 19:13:34.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9264ms or 185 ticks behind
+[22May2025 19:13:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ALVVVVVVVVVVV
+[22May2025 19:13:45.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> un monton de enderpearls
+[22May2025 19:14:02.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13050ms or 261 ticks behind
+[22May2025 19:14:27.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10360ms or 207 ticks behind

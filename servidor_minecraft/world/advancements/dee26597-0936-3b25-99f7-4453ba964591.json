@@ -8236,6 +8236,12 @@
     },
     "done": true
   },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-05-22 19:08:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-22 18:55:01 +0000"
@@ -8326,6 +8332,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-22 19:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-05-22 18:54:42 +0000"
@@ -8371,6 +8383,12 @@
   "cfm:recipes/decorations/dye_red_picket_gate": {
     "criteria": {
       "has_dye": "2025-05-22 18:55:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-22 19:08:18 +0000"
     },
     "done": true
   },
