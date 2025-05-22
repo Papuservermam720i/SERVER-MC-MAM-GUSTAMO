@@ -1163,3 +1163,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 01:24:29.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -16.09242213277571,-2.083337212653646,-8.245325113081094
 [22May2025 01:24:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tambien sirven las elytras magicas con cohetes waos
 [22May2025 01:24:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> dormi
+[22May2025 01:25:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> voy a ir a explorar el oceano otv XD
+[22May2025 01:26:33.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> o mejor no
+[22May2025 01:26:46.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> anda
+[22May2025 01:26:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ahi cojen
+[22May2025 01:27:12.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 16.558868888344932,4.121531639207575,5.632372598946063
+[22May2025 01:27:26.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 11.298948387247947,7.30753385675996,12.294562235142621
+[22May2025 01:27:37.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 14.585557917078631,-3.5651950838349933,-9.275091251635331
+[22May2025 01:27:52.576] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: undead_revamp2:terraindrip_3
+[22May2025 01:27:58.475] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 69], discarding
+[22May2025 01:27:58.480] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 70], discarding
+[22May2025 01:27:58.581] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 69], discarding
+[22May2025 01:27:58.585] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: undead_revamp2:terraindrip_3
+[22May2025 01:27:58.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 70], discarding
+[22May2025 01:27:58.664] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[22May2025 01:27:58.667] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 70], discarding
+[22May2025 01:28:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -9.209268403798774,-2.044441509896558,-15.625463344223704
+[22May2025 01:28:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Guns and Roses]
+[22May2025 01:33:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was killed by Witch using magic
+[22May2025 01:33:10.422] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 01:33:49.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 6.461992213553685,-0.7531999805212024,-7.633837182208026
+[22May2025 01:34:00.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 01:34:21.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[22May2025 01:34:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[22May2025 01:34:21.528] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja

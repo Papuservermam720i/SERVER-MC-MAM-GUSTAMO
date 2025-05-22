@@ -9733,3 +9733,143 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 01:24:29.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -16.09242213277571,-2.083337212653646,-8.245325113081094
 [22May2025 01:24:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tambien sirven las elytras magicas con cohetes waos
 [22May2025 01:24:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> dormi
+[22May2025 01:25:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> voy a ir a explorar el oceano otv XD
+[22May2025 01:25:49.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:25:49.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:26:33.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> o mejor no
+[22May2025 01:26:46.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> anda
+[22May2025 01:26:48.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ahi cojen
+[22May2025 01:27:12.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 16.558868888344932,4.121531639207575,5.632372598946063
+[22May2025 01:27:26.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 11.298948387247947,7.30753385675996,12.294562235142621
+[22May2025 01:27:37.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 14.585557917078631,-3.5651950838349933,-9.275091251635331
+[22May2025 01:27:40.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/unemployed
+[22May2025 01:27:40.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/baby
+[22May2025 01:27:40.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_2
+[22May2025 01:27:40.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_1
+[22May2025 01:27:40.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_weaponsmith_1
+[22May2025 01:27:40.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_3
+[22May2025 01:27:40.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_mason_1
+[22May2025 01:27:40.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_toolsmith_1
+[22May2025 01:27:40.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_cartographer_house_1
+[22May2025 01:27:40.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_2
+[22May2025 01:27:40.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_large_farm_1
+[22May2025 01:27:40.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_animal_pen_1
+[22May2025 01:27:46.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[22May2025 01:27:46.432] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[22May2025 01:27:46.470] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[22May2025 01:27:46.502] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:27:46.502] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:27:46.502] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:27:46.502] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 01:27:46.503] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[22May2025 01:27:46.503] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[22May2025 01:27:46.522] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[22May2025 01:27:46.965] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:27:46.968] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:27:46.968] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:27:46.972] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 01:27:48.362] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[22May2025 01:27:48.364] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[22May2025 01:27:48.365] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[22May2025 01:27:48.368] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[22May2025 01:27:48.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[22May2025 01:27:48.370] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[22May2025 01:27:48.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_4
+[22May2025 01:27:48.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_4
+[22May2025 01:27:48.433] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[22May2025 01:27:48.511] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[22May2025 01:27:48.512] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[22May2025 01:27:48.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[22May2025 01:27:48.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[22May2025 01:27:48.556] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[22May2025 01:27:48.610] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[22May2025 01:27:48.612] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[22May2025 01:27:48.616] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[22May2025 01:27:48.629] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_2
+[22May2025 01:27:48.630] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_2
+[22May2025 01:27:50.695] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[22May2025 01:27:50.742] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[22May2025 01:27:50.742] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[22May2025 01:27:51.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[22May2025 01:27:51.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[22May2025 01:27:52.576] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: undead_revamp2:terraindrip_3
+[22May2025 01:27:53.339] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[22May2025 01:27:53.443] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[22May2025 01:27:55.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[22May2025 01:27:55.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[22May2025 01:27:55.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[22May2025 01:27:55.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[22May2025 01:27:55.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[22May2025 01:27:55.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[22May2025 01:27:55.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[22May2025 01:27:55.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[22May2025 01:27:55.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[22May2025 01:27:55.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[22May2025 01:27:55.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[22May2025 01:27:55.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[22May2025 01:27:55.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[22May2025 01:27:55.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[22May2025 01:27:55.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[22May2025 01:27:55.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[22May2025 01:27:55.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[22May2025 01:27:55.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[22May2025 01:27:55.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[22May2025 01:27:55.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[22May2025 01:27:55.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[22May2025 01:27:55.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[22May2025 01:27:55.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[22May2025 01:27:55.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[22May2025 01:27:55.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[22May2025 01:27:55.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[22May2025 01:27:55.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[22May2025 01:27:55.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[22May2025 01:27:55.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[22May2025 01:27:55.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[22May2025 01:27:55.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[22May2025 01:27:55.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[22May2025 01:27:56.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[22May2025 01:27:56.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_bottom
+[22May2025 01:27:57.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/tropical_shrub_canopy1
+[22May2025 01:27:57.227] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk4
+[22May2025 01:27:57.237] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy4
+[22May2025 01:27:57.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk1
+[22May2025 01:27:57.254] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy3
+[22May2025 01:27:57.263] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:undeadknightspawnerchamber
+[22May2025 01:27:58.475] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 69], discarding
+[22May2025 01:27:58.480] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 70], discarding
+[22May2025 01:27:58.581] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 69], discarding
+[22May2025 01:27:58.585] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: undead_revamp2:terraindrip_3
+[22May2025 01:27:58.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 70], discarding
+[22May2025 01:27:58.664] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[22May2025 01:27:58.667] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 70], discarding
+[22May2025 01:27:59.405] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy2
+[22May2025 01:27:59.503] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy1
+[22May2025 01:28:03.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -9.209268403798774,-2.044441509896558,-15.625463344223704
+[22May2025 01:28:09.049] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[22May2025 01:28:09.049] [Worker-Main-48/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[22May2025 01:28:11.414] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[22May2025 01:28:12.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[22May2025 01:28:12.510] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[22May2025 01:28:13.775] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[22May2025 01:28:34.592] [Worker-Main-12/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_trunk_2 is being run through DFU (hash b77086bb9d29595424aa01e8a457ec278e1b9ee071ca96139203ac30c1e71e02), this will cause launch time delays
+[22May2025 01:28:34.756] [Worker-Main-12/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_canopy_2 is being run through DFU (hash 8fb8d13512b00fdfa2402bc397f621a0dda732e6c01747cb6f0ce4d32801a10b), this will cause launch time delays
+[22May2025 01:28:34.943] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_trunk_1 is being run through DFU (hash b77086bb9d29595424aa01e8a457ec278e1b9ee071ca96139203ac30c1e71e02), this will cause launch time delays
+[22May2025 01:28:34.947] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_canopy_1 is being run through DFU (hash e05f3b33fe18a9cb6ab2346a84cac67a6e0da3cebbff7e2bd4cbe72008cedfbc), this will cause launch time delays
+[22May2025 01:28:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Guns and Roses]
+[22May2025 01:30:49.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 01:30:49.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 01:33:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was killed by Witch using magic
+[22May2025 01:33:10.411] [Server thread/DEBUG] [tombstone/]: A new grave of the player DrPingaFloja was created at position [x:-964, y:121, z:945, dim:minecraft:overworld]
+[22May2025 01:33:10.422] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 01:33:49.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 6.461992213553685,-0.7531999805212024,-7.633837182208026
+[22May2025 01:34:00.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 01:34:00.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of f45bc295-6c7a-3aa9-95fe-73944750202f to disconnected: {disabled=true, disconnected=true, uuid=f45bc295-6c7a-3aa9-95fe-73944750202f, name=DrPingaFloja, group=null}
+[22May2025 01:34:21.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[22May2025 01:34:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[22May2025 01:34:21.526] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DrPingaFloja
+[22May2025 01:34:21.528] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
