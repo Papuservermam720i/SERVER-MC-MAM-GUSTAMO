@@ -1763,3 +1763,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 19:44:57.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dee26597-0936-3b25-99f7-4453ba964591
 [22May2025 19:44:58.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dee26597-0936-3b25-99f7-4453ba964591
 [22May2025 19:44:58.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zitroop (dee26597-0936-3b25-99f7-4453ba964591) successfully connected to voice chat
+[22May2025 19:49:54.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/73496, l='ServerLevel[world]', x=-1603.43, y=196.51, z=688.70] died, message: 'Golem Healer froze to death'
+[22May2025 19:49:54.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/73496, l='ServerLevel[world]', x=-1603.43, y=196.51, z=688.70] died: Golem Healer froze to death
+[22May2025 19:51:44.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[22May2025 19:53:47.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22May2025 19:55:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci fell from a high place
+[22May2025 19:55:12.227] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[22May2025 19:55:54.932] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22May2025 19:56:00.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[22May2025 19:56:17.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
