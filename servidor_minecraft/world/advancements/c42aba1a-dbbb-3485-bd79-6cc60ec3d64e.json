@@ -1832,6 +1832,7 @@
       "biomeswevegone:cika_woods": "2025-05-19 01:05:27 +0000",
       "biomeswevegone:sakura_grove": "2025-05-16 19:33:02 +0000",
       "biomeswevegone:temperate_grove": "2025-05-16 19:28:17 +0000",
+      "biomeswevegone:white_mangrove_marshes": "2025-05-22 21:14:39 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-16 23:02:25 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-15 00:04:54 +0000",
       "biomeswevegone:coconino_meadow": "2025-05-16 20:02:49 +0000",
@@ -8497,6 +8498,12 @@
   "alexsmobs:alexsmobs/tame_elephant": {
     "criteria": {
       "tame": "2025-05-22 19:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-22 21:11:14 +0000"
     },
     "done": true
   },
