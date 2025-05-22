@@ -8849,9 +8849,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "takesapillage:pillager_camp": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-05-22 18:11:09 +0000"
+      "in_pillager_camp": "2025-05-22 18:01:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_spectral_potion": {
+    "criteria": {
+      "brew_spectral_potion": "2025-05-22 18:02:02 +0000"
     },
     "done": true
   },
@@ -8861,15 +8867,9 @@
     },
     "done": true
   },
-  "takesapillage:pillager_camp": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "in_pillager_camp": "2025-05-22 18:01:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-05-22 18:12:50 +0000"
+      "has_sentry_armor_trim_smithing_template": "2025-05-22 18:11:09 +0000"
     },
     "done": true
   },
@@ -8879,9 +8879,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_spectral_potion": {
+  "farmersdelight:recipes/food/onion": {
     "criteria": {
-      "brew_spectral_potion": "2025-05-22 18:02:02 +0000"
+      "has_onion_crate": "2025-05-22 18:12:50 +0000"
     },
     "done": true
   },
