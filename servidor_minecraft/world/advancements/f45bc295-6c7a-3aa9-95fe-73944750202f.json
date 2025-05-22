@@ -1747,9 +1747,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-22 18:05:50 +0000",
       "log_spam_fixer": "2025-05-14 22:05:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -8807,15 +8808,9 @@
     },
     "done": true
   },
-  "knize1007:day40": {
+  "hangglider:recipes/tools/glider_framework": {
     "criteria": {
-      "play25days": "2025-05-22 17:25:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-05-22 17:19:28 +0000"
+      "has_iron_ingot": "2025-05-22 17:08:02 +0000"
     },
     "done": true
   },
@@ -8825,15 +8820,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "has_rice": "2025-05-22 17:34:55 +0000"
+      "has_golden_carrot": "2025-05-22 17:19:28 +0000"
     },
     "done": true
   },
-  "hangglider:recipes/tools/glider_framework": {
+  "knize1007:day40": {
     "criteria": {
-      "has_iron_ingot": "2025-05-22 17:08:02 +0000"
+      "play25days": "2025-05-22 17:25:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-22 17:34:55 +0000"
     },
     "done": true
   },
@@ -8846,6 +8847,18 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-05-22 17:40:45 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-05-22 18:01:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_spectral_potion": {
+    "criteria": {
+      "brew_spectral_potion": "2025-05-22 18:02:02 +0000"
     },
     "done": true
   },

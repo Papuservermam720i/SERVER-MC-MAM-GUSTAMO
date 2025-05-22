@@ -1127,3 +1127,83 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 17:58:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Shard of Reality]
 [22May2025 17:58:35.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pollo crudod
 [22May2025 17:58:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> duemra
+[22May2025 17:59:04.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22May2025 17:59:04.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzz
+[22May2025 17:59:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> duerme duerme duerme
+[22May2025 17:59:07.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22May2025 17:59:08.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22May2025 17:59:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22May2025 17:59:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22May2025 17:59:18.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> zzzzzzz
+[22May2025 17:59:20.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> elias salite
+[22May2025 17:59:22.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
+[22May2025 17:59:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> alv
+[22May2025 17:59:27.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[22May2025 17:59:27.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[22May2025 17:59:27.117] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[22May2025 17:59:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> o sino
+[22May2025 17:59:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> jorge
+[22May2025 17:59:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> se le mato al dragon de hielo?
+[22May2025 17:59:56.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:50219] logged in with entity id 8015 at (-2040.7620555332905, 72.0, -238.6989380116912)
+[22May2025 17:59:56.509] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[22May2025 17:59:56.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[22May2025 17:59:56.541] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[22May2025 17:59:56.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> le quiero matar
+[22May2025 17:59:56.802] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[22May2025 17:59:56.803] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[22May2025 17:59:57.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> no
+[22May2025 18:00:02.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 18:00:03.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[22May2025 18:00:03.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[22May2025 18:00:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> pero seguro desaparecio
+[22May2025 18:00:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> xd
+[22May2025 18:00:11.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> elias me pdoes prestar los diamante?
+[22May2025 18:00:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hermano
+[22May2025 18:00:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no uedo
+[22May2025 18:00:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> bueno gracia voy a minar
+[22May2025 18:00:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> estoy lejos
+[22May2025 18:00:36.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> o si no te prestaba
+[22May2025 18:00:40.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> bueno amo
+[22May2025 18:00:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> HAHAHAHAH
+[22May2025 18:00:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> lo qeu cambia una r
+[22May2025 18:01:23.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5403, l='ServerLevel[world]', x=-36.49, y=180.00, z=71.00] died, message: 'Unemployed was slain by Mtaep'
+[22May2025 18:01:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Neighborhood Brawl]
+[22May2025 18:01:34.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22May2025 18:01:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Campfire Song Song]
+[22May2025 18:01:54.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22May2025 18:02:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [The alchemy of time on the soul]
+[22May2025 18:02:12.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3453ms or 69 ticks behind
+[22May2025 18:02:32.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
+[22May2025 18:02:52.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
+[22May2025 18:03:15.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7687ms or 153 ticks behind
+[22May2025 18:03:34.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
+[22May2025 18:03:51.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[22May2025 18:04:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was sniped by Archer
+[22May2025 18:04:05.105] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 18:04:08.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[22May2025 18:04:27.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22May2025 18:04:45.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[22May2025 18:05:04.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22May2025 18:05:06.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja went off with a bang
+[22May2025 18:05:06.108] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 18:05:53.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[22May2025 18:06:10.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
+[22May2025 18:06:28.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[22May2025 18:06:46.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[22May2025 18:07:03.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[22May2025 18:07:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was chopped to bits by Skirmisher
+[22May2025 18:07:11.372] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 18:07:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was chopped to bits by Skirmisher
+[22May2025 18:07:21.640] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[22May2025 18:07:22.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22May2025 18:07:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde
+[22May2025 18:07:40.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> quién tiene carbón
+[22May2025 18:07:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> les pago al que me de 1 stack de carbón
+[22May2025 18:07:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> le pago
+[22May2025 18:07:55.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22May2025 18:07:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [An Ear-Shattering Roar]
+[22May2025 18:08:12.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[22May2025 18:08:30.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[22May2025 18:08:52.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7551ms or 151 ticks behind
+[22May2025 18:09:10.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[22May2025 18:09:32.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
