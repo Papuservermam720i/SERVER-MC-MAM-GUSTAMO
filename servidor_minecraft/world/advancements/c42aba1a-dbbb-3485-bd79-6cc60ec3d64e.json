@@ -8390,5 +8390,11 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/glider_framework": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-22 18:39:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

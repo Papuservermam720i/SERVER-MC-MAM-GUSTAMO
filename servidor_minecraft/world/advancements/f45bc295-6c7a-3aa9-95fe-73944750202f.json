@@ -1916,7 +1916,8 @@
       "biomeswevegone:aspen_boreal": "2025-05-16 22:45:18 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-16 21:11:06 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-16 20:11:38 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-05-16 20:15:04 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-05-16 20:15:04 +0000",
+      "biomeswevegone:baobab_savanna": "2025-05-22 18:38:43 +0000"
     },
     "done": false
   },
@@ -8882,6 +8883,18 @@
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-05-22 18:12:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 18:30:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-05-22 18:35:24 +0000"
     },
     "done": true
   },
