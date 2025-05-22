@@ -8892,6 +8892,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-22 19:27:54 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-05-22 19:20:00 +0000"
