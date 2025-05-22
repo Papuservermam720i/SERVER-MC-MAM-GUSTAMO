@@ -9995,12 +9995,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-22 20:48:03 +0000"
-    },
-    "done": false
-  },
   "knize1007:day50": {
     "criteria": {
       "play50days": "2025-05-22 20:43:27 +0000"

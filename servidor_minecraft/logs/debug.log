@@ -12503,3 +12503,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [22May2025 20:49:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nde
 [22May2025 20:50:00.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> quien me presta amatista
 [22May2025 20:50:02.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> 4
+[22May2025 20:50:06.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> porfa
+[22May2025 20:50:08.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22May2025 20:50:23.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo te puedo prestar
+[22May2025 20:50:25.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[22May2025 20:51:46.801] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[22May2025 20:51:49.380] [Worker-Main-10/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22May2025 20:51:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> porfi
+[22May2025 20:52:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> luego luego te cobro
+[22May2025 20:52:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> t pago
+[22May2025 20:52:31.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> 2 hojas de coca
+[22May2025 20:52:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> vem
+[22May2025 20:53:08.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:53:08.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 20:53:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no confío en el purple guy
+[22May2025 20:53:15.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> DAMN
+[22May2025 20:53:20.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> joder, que bien que se ve todo acá
+[22May2025 20:53:21.783] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: dee26597-0936-3b25-99f7-4453ba964591 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[22May2025 20:53:29.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> gracias
+[22May2025 20:53:29.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> quiero 4
+[22May2025 20:53:31.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> espera
+[22May2025 20:53:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> voy a poner el waypoint
+[22May2025 20:53:39.956] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: b24b122c-232e-3dc2-bf48-11421a53c3a2 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22May2025 20:53:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> no mames 4??
+[22May2025 20:53:42.072] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: dee26597-0936-3b25-99f7-4453ba964591 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[22May2025 20:53:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> XD
+[22May2025 20:53:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> así mero
+[22May2025 20:53:54.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> TOMA
+[22May2025 20:54:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> espera hago el waypoint
+[22May2025 20:54:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ok
+[22May2025 20:54:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> esta mierda te debió costar XD
+[22May2025 20:54:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> el amogus
+[22May2025 20:54:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> un poco
+[22May2025 20:54:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> este fue el mas dificil
+[22May2025 20:54:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> WTF cómo hicsite esos???
+[22May2025 20:54:49.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> una guia
+[22May2025 20:54:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> diablo jorge
+[22May2025 20:54:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> salieron god
+[22May2025 20:55:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo sé lo difícil que es hacer eso, créeme
+[22May2025 20:55:07.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nde
+[22May2025 20:55:08.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> una esmeralda
+[22May2025 20:55:10.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> XD
+[22May2025 20:55:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> aaca hay muchas en la aldea pero necesito 1
+[22May2025 20:55:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> que puta jorge no tengo ahora
+[22May2025 20:55:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> void a buscar
+[22May2025 20:55:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ok
+[22May2025 20:55:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> apúrate pq me voy al gimnasio pronto xddd
+[22May2025 20:56:39.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> he knows
+[22May2025 20:57:05.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> oficialmente este es el server que más duró
+[22May2025 20:57:06.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ven
+[22May2025 20:57:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> listo
+[22May2025 20:57:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> goty
+[22May2025 20:57:50.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> pruébate esto
+[22May2025 20:57:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> y devuélvelo
+[22May2025 20:58:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> tengo muchas cabezas yo xd
+[22May2025 20:58:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> alverga
+[22May2025 20:58:08.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 20:58:08.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 20:58:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> esto desde cuando esta en el juego
+[22May2025 20:58:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ni idea xd
+[22May2025 20:58:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> vdd que es purete
+[22May2025 20:58:22.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> que facha
+[22May2025 20:58:29.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nde que pure XD
+[22May2025 20:58:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> chau
+[22May2025 20:58:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> sacame foto
+[22May2025 20:58:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> vrga
+[22May2025 20:59:03.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ya we
+[22May2025 20:59:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> JAJAJAJA
+[22May2025 20:59:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> espera
+[22May2025 20:59:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ahí XDDD
+[22May2025 20:59:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> chau
