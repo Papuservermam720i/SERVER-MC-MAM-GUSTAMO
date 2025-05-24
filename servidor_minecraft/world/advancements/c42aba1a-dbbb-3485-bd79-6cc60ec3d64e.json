@@ -7464,6 +7464,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "wheat": "2025-05-24 01:34:55 +0000",
       "carrot": "2025-05-17 21:11:21 +0000"
     },
     "done": false
@@ -8935,11 +8936,47 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "requirement": "2025-05-24 01:24:59 +0000"
+      "has_bone_meal": "2025-05-24 01:35:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 01:35:02 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-05-24 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "knize1007:cavespider1": {
+    "criteria": {
+      "play25days": "2025-05-24 01:33:05 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-05-24 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-05-24 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-24 01:34:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
