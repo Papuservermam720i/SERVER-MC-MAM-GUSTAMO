@@ -10243,93 +10243,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-23 01:52:24 +0000"
-    },
-    "done": false
-  },
-  "knize1007:day60": {
-    "criteria": {
-      "play25days": "2025-05-23 01:17:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-23 00:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-05-23 01:21:35 +0000"
     },
     "done": true
   },
@@ -10345,15 +10261,33 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
     "criteria": {
-      "has_log": "2025-05-23 01:21:35 +0000"
+      "has_needed_dye": "2025-05-23 00:51:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "minecraft:recipes/decorations/brown_candle": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+      "has_brown_dye": "2025-05-23 00:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-23 00:51:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-23 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-05-23 01:04:26 +0000"
     },
     "done": true
   },
@@ -10363,27 +10297,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/display_case": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_item_frame": "2025-05-23 01:42:21 +0000"
+      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day60": {
+    "criteria": {
+      "play25days": "2025-05-23 01:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 01:21:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-23 01:21:35 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-23 01:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-23 00:51:59 +0000"
     },
     "done": true
   },
@@ -10423,12 +10393,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_park_bench": {
     "criteria": {
       "has_log": "2025-05-23 01:21:35 +0000"
@@ -10441,21 +10405,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-05-23 01:21:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-05-23 00:52:59 +0000"
     },
     "done": true
   },
@@ -10483,12 +10435,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-05-23 01:42:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-23 01:21:35 +0000"
@@ -10498,12 +10444,6 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-23 01:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-05-23 00:51:59 +0000"
     },
     "done": true
   },
@@ -10531,27 +10471,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-05-23 01:04:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-05-23 01:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-23 00:51:59 +0000"
     },
     "done": true
   },
@@ -10567,9 +10489,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "securitycraft:recipes/decorations/display_case": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-05-23 01:14:46 +0000"
+      "has_item_frame": "2025-05-23 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-23 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-05-24 01:15:13 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-05-24 01:15:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-24 01:15:13 +0000"
     },
     "done": true
   },

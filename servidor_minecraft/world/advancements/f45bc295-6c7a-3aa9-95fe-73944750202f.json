@@ -1795,6 +1795,7 @@
       "minecraft:forest": "2025-05-17 23:21:18 +0000",
       "minecraft:lush_caves": "2025-05-19 00:07:51 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 17:08:48 +0000",
+      "minecraft:frozen_ocean": "2025-05-24 01:23:59 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-18 17:38:48 +0000",
       "minecraft:ocean": "2025-05-18 18:37:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-16 21:52:22 +0000",
@@ -9278,6 +9279,24 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-05-24 01:06:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2025-05-24 01:14:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-05-24 01:14:08 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-05-24 01:14:34 +0000"
     },
     "done": true
   },

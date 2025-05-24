@@ -3131,6 +3131,7 @@
       "minecraft:vindicator": "2025-05-16 19:15:34 +0000",
       "minecraft:spider": "2025-05-15 02:01:21 +0000",
       "minecraft:piglin_brute": "2025-05-22 21:35:09 +0000",
+      "minecraft:creeper": "2025-05-24 01:18:43 +0000",
       "minecraft:witch": "2025-05-17 21:22:59 +0000",
       "minecraft:wither_skeleton": "2025-05-16 21:27:32 +0000",
       "minecraft:husk": "2025-05-16 22:47:54 +0000",
@@ -8933,6 +8934,12 @@
       "factory": "2025-05-24 00:47:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-24 01:24:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
