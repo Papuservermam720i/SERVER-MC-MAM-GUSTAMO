@@ -9527,9 +9527,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-24 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day40": {
+    "criteria": {
+      "play25days": "2025-05-24 02:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-24 02:27:51 +0000"
     },
     "done": true
   },
@@ -9581,6 +9599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-24 02:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-24 01:14:52 +0000"
@@ -9611,6 +9635,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-24 02:27:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-05-24 01:03:46 +0000"
@@ -9635,9 +9665,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-24 02:27:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
       "has_item": "2025-05-24 00:58:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-24 02:27:50 +0000"
     },
     "done": true
   },
@@ -9674,6 +9716,18 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-24 01:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-24 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-24 02:27:53 +0000"
     },
     "done": true
   },
