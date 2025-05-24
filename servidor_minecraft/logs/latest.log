@@ -1783,3 +1783,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [24May2025 03:09:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was doomed to fall
 [24May2025 03:09:35.485] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
 [24May2025 03:09:56.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12747ms or 254 ticks behind
+[24May2025 03:25:10.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci lost connection: Disconnected
+[24May2025 03:25:10.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
+[24May2025 03:25:10.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cattemci
