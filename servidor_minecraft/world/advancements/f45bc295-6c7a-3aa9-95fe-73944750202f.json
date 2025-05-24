@@ -1868,6 +1868,7 @@
       "minecraft:cave_spider": "2025-05-19 01:03:35 +0000",
       "minecraft:silverfish": "2025-05-18 17:12:37 +0000",
       "minecraft:enderman": "2025-05-22 22:25:20 +0000",
+      "minecraft:vex": "2025-05-24 01:48:49 +0000",
       "minecraft:zombie": "2025-05-15 00:58:33 +0000",
       "minecraft:drowned": "2025-05-18 18:33:34 +0000",
       "minecraft:zombie_villager": "2025-05-16 21:12:31 +0000"
@@ -9369,6 +9370,30 @@
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-05-24 01:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-24 01:39:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-05-24 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-05-24 01:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-24 01:39:26 +0000"
     },
     "done": true
   },
