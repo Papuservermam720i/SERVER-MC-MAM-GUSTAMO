@@ -10507,6 +10507,12 @@
     },
     "done": true
   },
+  "better_armory_mod:better_armory_icon_adv": {
+    "criteria": {
+      "better_armory_icon_adv_0": "2025-05-24 03:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-24 02:54:24 +0000"
@@ -10516,6 +10522,12 @@
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-05-24 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:fungal_plains_advancement": {
+    "criteria": {
+      "fungal_plains_advancement_0": "2025-05-24 03:09:07 +0000"
     },
     "done": true
   },
