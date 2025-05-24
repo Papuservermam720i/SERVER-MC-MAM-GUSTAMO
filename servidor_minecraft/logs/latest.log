@@ -1608,3 +1608,119 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [24May2025 02:37:03.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.773158780361655,5.0,11.426152098189846
 [24May2025 02:37:03.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.773158780361655,5.0,11.426152098189846
 [24May2025 02:37:03.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.773158780361655,5.0,11.426152098189846
+[24May2025 02:39:08.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.1147853398817915,0.7725465413369932,-9.878327234813582
+[24May2025 02:39:08.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.2586239073261822,0.5510576895623984,-10.107682655272697
+[24May2025 02:39:08.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.4001602432333584,0.26150779068264285,-10.330377347023727
+[24May2025 02:39:08.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.5396434489962303,-0.09340793910909895,-10.547132000741726
+[24May2025 02:39:08.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.6772956732438615,-0.5111010141305457,-10.758589328389121
+[24May2025 02:39:08.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.8133150281289545,-0.9890854526840371,-10.965322500510638
+[24May2025 02:39:08.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 2.947878190074789,-1.0,-11.1678426706128
+[24May2025 02:39:08.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 3.2004925989892854,-1.0,-11.530005382422928
+[24May2025 02:39:08.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 3.468272510244333,-1.0,-11.90534664767506
+[24May2025 02:39:08.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 3.744167179434271,-1.0,-12.287739494121979
+[24May2025 02:39:08.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 4.0244038938042195,-1.0,-12.673905501072909
+[24May2025 02:39:08.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 4.3069639499790355,-1.0,-13.062090450980804
+[24May2025 02:39:08.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 4.591236705181018,-1.0,-13.451011804715108
+[24May2025 02:39:08.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 4.876425891484814,-1.0,-13.840327193454641
+[24May2025 02:39:08.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 5.1621054417996675,-1.0,-14.229853422469205
+[24May2025 02:39:08.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 5.448047376119803,-1.0,-14.619492467911186
+[24May2025 02:39:08.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 5.734129706889917,-1.0,-15.009191879174296
+[24May2025 02:39:08.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 6.020287161001306,-1.0,-15.398923590984623
+[24May2025 02:39:08.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 6.306484812114604,0.0,-15.788672586173789
+[24May2025 02:39:08.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 6.592703971842411,0.0,-16.178430829354397
+[24May2025 02:39:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 6.878934640400757,0.0,-16.56819402095084
+[24May2025 02:39:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 7.165171467104983,0.0,-16.95795986034591
+[24May2025 02:39:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 7.451411588910332,0.0,-17.34772711652522
+[24May2025 02:39:08.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 7.737653473858472,0.0,-17.737495130797583
+[24May2025 02:39:08.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.023896302229332,0.0,-18.12726355071038
+[24May2025 02:39:08.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.310139635406813,0.0,-18.517032187673294
+[24May2025 02:39:08.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.596383238696262,0.0,-18.906800940775383
+[24May2025 02:39:08.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 8.882626986517153,0.0,-19.296569756021313
+[24May2025 02:39:08.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 9.168870811673969,0.0,-19.68633860451905
+[24May2025 02:39:08.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 9.455114678211885,1.0,-20.076107470809234
+[24May2025 02:39:08.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 9.741358566891904,1.0,-20.46587634661978
+[24May2025 02:39:08.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 10.027602467419683,1.0,-20.85564522752452
+[24May2025 02:39:08.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 10.313846374286868,1.0,-21.245414111155014
+[24May2025 02:39:08.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 10.60009028454624,1.0,-21.635182996243998
+[24May2025 02:39:08.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 10.886334196620737,1.0,-22.02495188211344
+[24May2025 02:39:08.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 11.172578109666347,1.0,-22.414720768400457
+[24May2025 02:39:08.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 11.458822023231733,1.0,-22.80448965491098
+[24May2025 02:39:08.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 11.745065937075196,1.0,-23.19425854154099
+[24May2025 02:39:08.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 12.031309851067363,1.0,-23.584027428235004
+[24May2025 02:39:08.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 12.31755376513911,1.0,-23.973796314963238
+[24May2025 02:39:08.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 12.603797679253603,2.0,-24.363565201709775
+[24May2025 02:39:08.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 12.890041593390833,2.0,-24.75333408846609
+[24May2025 02:39:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 13.176285507540342,2.0,-25.143102975227748
+[24May2025 02:39:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 13.462529421696217,2.0,-25.532871861992135
+[24May2025 02:39:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 13.74877333585573,2.0,-25.922640748758
+[24May2025 02:39:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 14.035017250017063,2.0,-26.312409635524773
+[24May2025 02:39:08.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 14.321261164179305,2.0,-26.702178522291888
+[24May2025 02:39:08.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 14.607505078342228,2.0,-27.09194740905923
+[24May2025 02:39:08.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 14.89374899250538,2.0,-27.481716295826686
+[24May2025 02:39:08.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.178564189760436,2.0,-27.87252581124335
+[24May2025 02:39:08.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.453405196789845,3.0,-28.270202922385124
+[24May2025 02:39:08.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.72487302585023,3.0,-28.6702649298486
+[24May2025 02:39:08.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.001781834570238,3.0,-29.066582088926907
+[24May2025 02:39:08.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.2835167013111,3.0,-29.459496929477723
+[24May2025 02:39:08.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.56783389547786,3.0,-29.85059125721932
+[24May2025 02:39:08.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.856342689005942,3.0,-30.23860215960235
+[24May2025 02:39:08.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.186559618633737,2.0768320014953616,-20.977204810043304
+[24May2025 02:39:08.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.49586770703604,3.0768320014953616,-21.348475438889636
+[24May2025 02:39:08.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 15.819080136824823,3.0768320014953616,-21.707372907026297
+[24May2025 02:39:08.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.159491930522563,3.0768320014953616,-22.049420723351545
+[24May2025 02:39:08.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.51448713025343,3.0768320014953616,-22.376220111747443
+[24May2025 02:39:08.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 16.880252645657947,3.0768320014953616,-22.691216629011137
+[24May2025 02:39:08.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 17.252156700718388,3.0768320014953616,-22.999425191921773
+[24May2025 02:39:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 17.633722127766987,3.0768320014953616,-23.29555603246456
+[24May2025 02:39:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 18.028021841403188,3.0768320014953616,-23.574001069413043
+[24May2025 02:39:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 18.430998496157827,3.0768320014953616,-23.8399785722836
+[24May2025 02:39:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 18.83861800910563,4.076832001495362,-24.09928494624478
+[24May2025 02:39:08.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 19.248721822903917,4.076832001495362,-24.35502173213456
+[24May2025 02:39:08.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 19.66045712544519,4.076832001495362,-24.608351117126062
+[24May2025 02:39:08.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 20.07367697911377,4.076832001495362,-24.85937674061006
+[24May2025 02:39:08.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 20.49064714326687,4.076832001495362,-25.10408159699125
+[24May2025 02:39:08.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 20.930142488583897,4.076832001495362,-25.296062499489494
+[24May2025 02:39:08.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 21.38169060923815,4.076832001495362,-25.45983186546721
+[24May2025 02:39:08.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 21.84414770164676,4.076832001495362,-25.589609775350937
+[24May2025 02:39:08.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 22.314344779083058,4.076832001495362,-25.68958660337796
+[24May2025 02:39:08.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 22.78891654276481,4.076832001495362,-25.771865394251904
+[24May2025 02:39:08.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 23.266381951992116,4.076832001495362,-25.8400080075927
+[24May2025 02:39:08.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 23.745801738639557,5.076832001495362,-25.89646806428118
+[24May2025 02:39:08.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 24.226636305946386,5.076832001495362,-25.941992585833987
+[24May2025 02:39:08.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 24.708470703954163,5.076832001495362,-25.977555903927055
+[24May2025 02:39:08.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 25.191069875599396,5.076832001495362,-26.001305365416897
+[24May2025 02:39:08.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 25.674127014617397,5.076832001495362,-26.014616773214016
+[24May2025 02:39:08.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 26.157430006895993,5.076832001495362,-26.0217609973123
+[24May2025 02:39:08.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 26.640864550352717,5.076832001495362,-26.025605284373682
+[24May2025 02:39:08.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 27.124369484221916,5.076832001495362,-26.025626839560573
+[24May2025 02:39:08.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 27.607912082597295,5.076832001495362,-26.025648394747463
+[24May2025 02:39:08.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Geckotoa (vehicle of DrPingaFloja) moved too quickly! 28.091474834498968,5.076832001495362,-26.025669949934354
+[24May2025 02:40:30.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que mierda
+[24May2025 02:40:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> te traje un regalito we
+[24May2025 02:40:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> una puta
+[24May2025 02:40:44.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q perras
+[24May2025 02:40:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> un homongosaurio
+[24May2025 02:41:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> bro respeten
+[24May2025 02:41:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> chau we
+[24May2025 02:41:21.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> dejana mi casa
+[24May2025 02:44:53.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[24May2025 02:44:53.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24May2025 02:44:53.876] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[24May2025 02:45:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop hit the ground too hard
+[24May2025 02:45:24.884] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[24May2025 02:46:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was slain by Lifestealer
+[24May2025 02:46:08.330] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[24May2025 02:46:34.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was slain by Lifestealer
+[24May2025 02:46:34.327] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[24May2025 02:47:14.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:50545] logged in with entity id 106175 at (-1510.2870443243428, 120.0, 283.8604878529456)
+[24May2025 02:47:14.349] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[24May2025 02:47:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[24May2025 02:47:14.385] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[24May2025 02:47:17.033] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[24May2025 02:47:17.033] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[24May2025 02:47:24.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was slain by Lifestealer
+[24May2025 02:47:24.736] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[24May2025 02:47:31.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[24May2025 02:47:32.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[24May2025 02:47:32.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[24May2025 02:47:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que mierda
