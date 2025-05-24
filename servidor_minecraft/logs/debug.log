@@ -14850,3 +14850,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [24May2025 02:58:47.981] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Zitroop'/2776, l='ServerLevel[world]', x=-1816.55, y=138.12, z=812.31]
 [24May2025 02:58:56.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1513.17, y=119.00, z=291.60], dimensionLocationPath overworld
 [24May2025 02:58:56.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1513.17, y=119.00, z=291.60] in list []
+[24May2025 02:59:06.480] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1519.70, y=119.00, z=293.16]
+[24May2025 02:59:08.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1516.88, y=119.00, z=292.82], dimensionLocationPath overworld
+[24May2025 02:59:08.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1516.88, y=119.00, z=292.82] in list []
+[24May2025 02:59:28.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1501.70, y=119.00, z=279.71]
+[24May2025 02:59:55.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1508.48, y=119.00, z=289.21], dimensionLocationPath overworld
+[24May2025 02:59:55.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1508.48, y=119.00, z=289.21] in list []
+[24May2025 02:59:55.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1508.57, y=119.00, z=288.94]
+[24May2025 02:59:56.612] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1509.18, y=120.00, z=282.17], dimensionLocationPath overworld
+[24May2025 02:59:56.612] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1509.18, y=120.00, z=282.17] in list []
+[24May2025 03:00:21.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:00:21.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:00:54.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1833.71, y=149.00, z=793.86]
+[24May2025 03:01:22.883] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1509.18, y=120.00, z=281.34], dimensionLocationPath overworld
+[24May2025 03:01:22.883] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1509.18, y=120.00, z=281.34] in list []
+[24May2025 03:01:23.781] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DrPingaFloja'/106175, l='ServerLevel[world]', x=-1507.94, y=120.00, z=282.90]
+[24May2025 03:02:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> yo ya voy a dejar
+[24May2025 03:02:43.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> yo igual
+[24May2025 03:02:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> seguramente despues se va a apagar
+[24May2025 03:02:48.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop lost connection: Disconnected
+[24May2025 03:02:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop left the game
+[24May2025 03:02:48.180] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zitroop
+[24May2025 03:02:48.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zitroop
+[24May2025 03:02:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo no
+[24May2025 03:03:41.318] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2458.78, y=90.00, z=955.89], dimensionLocationPath overworld
+[24May2025 03:03:41.318] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2458.78, y=90.00, z=955.89] in list []
+[24May2025 03:03:44.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2455.34, y=91.00, z=955.98]
+[24May2025 03:03:44.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2454.95, y=91.00, z=955.81], dimensionLocationPath overworld
+[24May2025 03:03:44.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2454.95, y=91.00, z=955.81] in list []
+[24May2025 03:03:45.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2455.45, y=92.00, z=953.25]
+[24May2025 03:03:48.821] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2460.59, y=93.00, z=948.57], dimensionLocationPath overworld
+[24May2025 03:03:48.821] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2460.59, y=93.00, z=948.57] in list []
+[24May2025 03:03:49.670] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2460.59, y=93.00, z=948.57]
+[24May2025 03:03:50.620] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2460.79, y=93.00, z=949.49], dimensionLocationPath overworld
+[24May2025 03:03:50.620] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2460.79, y=93.00, z=949.49] in list []
+[24May2025 03:03:50.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-2461.01, y=93.00, z=950.21]
+[24May2025 03:04:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [We Need to Go Deeper]
+[24May2025 03:04:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Incendium]
+[24May2025 03:04:48.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:48.812] [Server thread/DEBUG] [ModernFix/]: Structure creature_compendium:bastion/netherite_forge is being run through DFU (hash 346f05bb8bd4b77f6630dd0d1ab1c3ffa8c0adfe5d59fddd3fb8542bca0391fc), this will cause launch time delays
+[24May2025 03:04:49.321] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:49.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Ruthless Remnants]
+[24May2025 03:04:49.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:51.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Chort
+[24May2025 03:04:51.640] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cattemci was created at position [x:-319, y:101, z:121, dim:minecraft:the_nether]
+[24May2025 03:04:51.655] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[24May2025 03:05:21.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 03:05:21.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 03:06:46.029] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l1 is being run through DFU (hash 82e70413a739802bb5e489ee41944b1f39c038f79c210c58c9936c63bf5e96ec), this will cause launch time delays
+[24May2025 03:06:46.444] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor is being run through DFU (hash 9171fb6e499dd9b1ad2761a65361f03a27f131facda5327c4dccc3a7c6c2730b), this will cause launch time delays
+[24May2025 03:06:53.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-323.10, y=107.00, z=33.79], dimensionLocationPath the_nether
+[24May2025 03:06:53.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Cattemci'/32752, l='ServerLevel[world]', x=-323.10, y=107.00, z=33.79] is dead or in a banned dimension the_nether
+[24May2025 03:07:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci withered away
+[24May2025 03:07:12.483] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cattemci was created at position [x:-352, y:110, z:27, dim:minecraft:the_nether]
+[24May2025 03:07:12.486] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[24May2025 03:07:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> el whiter folla no joda
+[24May2025 03:08:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya me voy
+[24May2025 03:08:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> juga hasta que se apague el server
+[24May2025 03:08:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ok
+[24May2025 03:08:38.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[24May2025 03:08:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24May2025 03:08:38.935] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DrPingaFloja
+[24May2025 03:08:38.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[24May2025 03:09:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Not mushroom for desert]

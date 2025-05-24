@@ -10501,6 +10501,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-24 03:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-24 02:54:24 +0000"
@@ -10531,6 +10537,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-24 03:04:48 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2025-05-24 03:04:49 +0000"
+    },
+    "done": true
+  },
   "faded_conquest_2:faded_2": {
     "criteria": {
       "faded_2_0": "2025-05-24 01:15:13 +0000"
@@ -10552,6 +10570,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-24 01:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-24 03:04:48 +0000"
     },
     "done": true
   },

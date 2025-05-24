@@ -1754,3 +1754,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [24May2025 02:56:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> en dilson
 [24May2025 02:57:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Monsters Level 70]
 [24May2025 02:58:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has reached the goal [Plant Food]
+[24May2025 03:02:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> yo ya voy a dejar
+[24May2025 03:02:43.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> yo igual
+[24May2025 03:02:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> seguramente despues se va a apagar
+[24May2025 03:02:48.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop lost connection: Disconnected
+[24May2025 03:02:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop left the game
+[24May2025 03:02:48.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zitroop
+[24May2025 03:02:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo no
+[24May2025 03:04:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [We Need to Go Deeper]
+[24May2025 03:04:48.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Incendium]
+[24May2025 03:04:48.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:49.321] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:49.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Ruthless Remnants]
+[24May2025 03:04:49.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[24May2025 03:04:51.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Chort
+[24May2025 03:04:51.655] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[24May2025 03:07:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci withered away
+[24May2025 03:07:12.486] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[24May2025 03:07:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> el whiter folla no joda
+[24May2025 03:08:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya me voy
+[24May2025 03:08:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> juga hasta que se apague el server
+[24May2025 03:08:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ok
+[24May2025 03:08:38.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[24May2025 03:08:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[24May2025 03:08:38.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[24May2025 03:09:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Not mushroom for desert]
